@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Football</string>
+    <string name="item_nama">Nama Team</string>
+    <string name="item_detail">Detail</string>
+    <string name="item_julukan">Julukan</string>
+    <string name="daftar_team">Daftar Team</string>
+    <string name="icon_profil">Icon Profile</string>
+    <string name="name">Nama</string>
+    <string name="profile_name">Reza Zulfan Azmi</string>
+    <string name="email_profile">zarezazul@gmail.com</string>
+</resources>
